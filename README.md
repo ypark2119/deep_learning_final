@@ -11,6 +11,6 @@ By Eunice Tu & Yewon Park
 
 ### Data Source: 
 We will use the AI Hub Korean-English Parallel Corpus, a high-quality dataset provided by the Korean government. It includes professionally translated sentence pairs across various domains such as news, spoken dialogue, legal documents, IT, and patents. Suitable for our project because:
-- It contains well-aligned, clean, and diverse Korean-English sentence pairs.
-- It covers both formal and informal language, which helps train a more robust translation model.
-- It is large enough (~1 million+ pairs) to support deep learning models.
+- Contains well-aligned, clean, and diverse Korean-English sentence pairs.
+- Covers both formal and informal language, which helps train a more robust translation model.
+- Large dataset (~1 million+ pairs) to support deep learning models.
